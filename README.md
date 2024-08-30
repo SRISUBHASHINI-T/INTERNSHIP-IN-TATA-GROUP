@@ -1,1 +1,1 @@
-# Internship-in-TATA-Group
+In my recent project, I stepped onto the revenue battleground, I balanced the scales: countries with lackluster revenue got a nudge, while high rollers were gently reined in. I reviewed the sales ratio month wise to improve the revenue overall and spotlighted the cites with higher and lower revenue.
