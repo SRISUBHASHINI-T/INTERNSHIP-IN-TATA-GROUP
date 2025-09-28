@@ -1,0 +1,29 @@
+# 💼 Tata Group Internship – Revenue Analysis
+
+## 📌 Overview
+As part of my internship with **Tata Group**, I worked on analyzing revenue data across multiple cities in the United States. The objective was to evaluate monthly sales performance, identify high- and low-revenue cities, and provide recommendations for improving overall revenue generation. This project emphasized balancing revenue between strong-performing and underperforming regions.  
+
+## 🎯 Key Objectives
+- Track **month-wise revenue trends** to identify seasonal patterns.  
+- Compare revenue generation across cities (e.g., California and other major US locations).  
+- Highlight top-performing cities contributing the most revenue.  
+- Identify cities with declining or low revenue for targeted improvement.  
+- Provide actionable recommendations for increasing revenue in underperforming areas.  
+
+## 🛠️ Tools & Technologies
+- **Microsoft Excel** → Data cleaning, monthly sales ratio calculations  
+- **Power BI** → Dashboards and revenue visualizations  
+- **DAX Functions** → KPI creation and comparative metrics  
+
+## 📊 Process
+1. **Data Cleaning**: Standardized city names, removed duplicates, and organized revenue records by month.  
+2. **Trend Analysis**: Evaluated month-wise sales ratios to observe seasonal changes in revenue.  
+3. **Geographic Analysis**: Segmented data by city and compared revenue distribution.  
+4. **Visualization**: Designed dashboards in Power BI to track revenue contribution across locations.  
+5. **Insights**: Highlighted cities with consistent growth and identified low-revenue cities needing attention.  
+
+## 📈 Outcome
+- Identified high-revenue cities (e.g., California and other top-performing regions).  
+- Detected cities with lower contributions, helping management focus on targeted improvements.  
+- Balanced strategy proposed for both high- and low-revenue regions.  
+- Provided actionable insights to support better decision-making and revenue growth.  
